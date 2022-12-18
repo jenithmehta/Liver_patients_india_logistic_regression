@@ -1,4 +1,4 @@
-# Liver_patients_india_linear_regression
+# Liver_patients_india_logistic_regression
 
 Dataset Link - https://www.kaggle.com/datasets/uciml/indian-liver-patient-records
 
